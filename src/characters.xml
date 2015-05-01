@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character_list>
+    <character>
+        <name>Jaime Lannister</name>
+        <image>C1.png</image>
+    </character>
+    
+    <character>
+        <name>Cersei Lannister</name>
+        <image>C2.png</image>
+    </character>
+    
+    <character>
+        <name>Tywin Lannister</name>
+        <image>C3.png</image>
+    </character>
+    
+    <character>
+        <name>Eddard Stark</name>
+        <image>C4.png</image>
+    </character>
+    
+    <character>
+        <name>Tyrion Lannister</name>
+        <image>C5.png</image>
+    </character>
+    
+    <character>
+        <name>Sansa Stark</name>
+        <image>C6.png</image>
+    </character>
+    
+    <character>
+        <name>Theon Greyjoy</name>
+        <image>C7.png</image>
+    </character>
+    
+    <character>
+        <name>Joffrey Baratheon</name>
+        <image>C8.png</image>
+    </character>
+    
+    <character>
+        <name>Daenerys Targaryan</name>
+        <image>C9.png</image>
+    </character>
+    
+    <character>
+        <name>Sandor Clegane</name>
+        <image>C10.png</image>
+    </character>
+    
+    <character>
+        <name>Jon Snow</name>
+        <image>C11.png</image>
+    </character>
+    
+    <character>
+        <name>Kahl Drogo</name>
+        <image>C12.png</image>
+    </character>
+    
+    <character>
+        <name>Rob Stark</name>
+        <image>C13.png</image>
+    </character>
+    
+    <character>
+        <name>Arya Stark</name>
+        <image>C14.png</image>
+    </character>
+    
+    <character>
+        <name>Petyr Baelish</name>
+        <image>C15.png</image>
+    </character>
+    
+    <character>
+        <name>Hodor</name>
+        <image>C16.png</image>
+    </character>
+
+    <character>
+        <name>Varys</name>
+        <image>C17.png</image>
+    </character>
+    
+    <character>
+        <name>Robert Baratheon</name>
+        <image>C18.png</image>
+    </character>
+    
+    <character>
+        <name>Catelyn Stark</name>
+        <image>C19.png</image>
+    </character>
+    
+    <character>
+        <name>Ygritte</name>
+        <image>C20.png</image>
+    </character>
+    
+</character_list>
